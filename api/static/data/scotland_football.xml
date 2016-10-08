@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<fixture>
+	<sport id="1">Football</sport>
+	<category channel="scotland" id="13">Scotland - Premiereship</category>
+	<champonship id="3887">Scotland - Decentralized 2016</champonship>
+	<alternativeChampionshipName id="3887">Decentralized 2016</alternativeChampionshipName>
+	<championshipDescription id="3887"/>
+	<championshipDescriptionDescline id="3887"/>
+	<currentDate>20160617</currentDate>
+	<currentTime gmt="-3">03:26:16</currentTime>
+	<date state="" date="20161201" dateSince="20161201" dateUntil="20161206" fn="1" id="358740" level="4" name="Semifinal 1" dayName="Thursday" levelName="Semifinals" order="1">
+		<match stadiumClub="Not confirmed" stadiumGMT="" date="20161201" time="" id="262551" stadiumId="571" ganId="" timezoneId="" cityNeighbourhood="" nd="" chargeLevel="1" coverageLevel="1000" ganNom="" dayName="Thursday" stadiumName="Not confirmed" nbr="353" agendaOrder="202" type="first leg">
+			<state id="0"/>
+			<stateTime/>
+			<local id="" nc="4. M. score" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Aberdeen</local>
+			<localGoals>1</localGoals>
+			<localScorers/>
+			<localPenaltyDefinitionGoals/>
+			<visitor id="" nc="1. M. score" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Celtic</visitor>
+			<visitorGoals>0</visitorGoals>
+			<visitorScorers/>
+			<visitorPenaltyDefinitionGoals/>
+			<medias/>
+		</match>
+		<match stadiumClub="Not confirmed" stadiumGMT="" date="20161206" time="" id="262553" stadiumId="571" ganId="" timezoneId="" cityNeighbourhood="" nd="" chargeLevel="1" coverageLevel="1000" ganNom="" dayName="Tuesday" stadiumName="Not confirmed" nbr="354" agendaOrder="204" type="return match">
+			<state id="0"/>
+			<stateTime/>
+			<local id="" nc="1. M. score" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Dundee</local>
+			<localGoals>2</localGoals>
+			<localScorers/>
+			<localPenaltyDefinitionGoals/>
+			<visitor id="" nc="4. M. score" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Motherwell</visitor>
+			<visitorGoals>0</visitorGoals>
+			<visitorScorers/>
+			<visitorPenaltyDefinitionGoals/>
+			<medias/>
+		</match>
+		<winners/>
+		<freeTeams>
+			<freeTeam id="103">Rangers</freeTeam>
+			<freeTeam id="3685">Kilmarnock</freeTeam>
+		</freeTeams>
+	</date>
+	<date state="" date="20161201" dateSince="20161201" dateUntil="20161206" fn="2" id="358741" level="4" name="Semifinal 2" dayName="Thursday" levelName="Semifinals" order="2">
+		<match stadiumClub="Not confirmed" stadiumGMT="" date="20161201" time="" id="262552" stadiumId="571" ganId="" timezoneId="" cityNeighbourhood="" nd="" chargeLevel="1" coverageLevel="1000" ganNom="" dayName="Thursday" nameEstadio="Not confirmed" nbr="355" agendaOrder="203" type="first leg">
+			<state id="0"/>
+			<timestate/>
+			<local id="" nc="3. M. score" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Aberdeen</local>
+			<localGoals>3</localGoals>
+			<localScorers/>
+			<localPenaltyDefinitionGoals/>
+			<visitor id="" nc="2. M. score" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Celtic</visitor>
+			<visitorGoals>0</visitorGoals>
+			<visitorScorers/>
+			<visitorPenaltyDefinitionGoals/>
+			<medias/>
+		</match>
+		<match stadiumClub="Not confirmed" stadiumGMT="" date="20161206" time="" id="262554" stadiumId="571" ganId="" timezoneId="" cityNeighbourhood="" nd="" chargeLevel="1" coverageLevel="1000" ganNom="" dayName="Martes" nameEstadio="Not confirmed" nbr="356" agendaOrder="205" type="vuelta">
+			<state id="0"/>
+			<timestate/>
+			<local id="" nc="2. M. score" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Dundee</local>
+			<localGoals>3</localGoals>
+			<localScorers/>
+			<localPenaltyDefinitionGoals/>
+			<visitor id="" nc="3. M. score" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Motherwell</visitor>
+			<visitorGoals>0</visitorGoals>
+			<visitorScorers/>
+			<visitorPenaltyDefinitionGoals/>
+			<medias/>
+		</match>
+		<winners/>
+		<freeTeams>
+			<freeTeam id="103">Rangers</freeTeam>
+			<freeTeam id="3685">Kilmarnock</freeTeam>
+		</freeTeams>
+	</date>
+	<date state="" date="20161210" dateSince="20161210" dateUntil="20161210" fn="" id="358742" level="5" name="Third place" dayName="Saturday" levelName="Third place" order="1">
+		<match stadiumClub="Not confirmed" stadiumGMT="" date="20161210" time="" id="262555" stadiumId="571" ganId="" timezoneId="" cityNeighbourhood="" nd="" chargeLevel="1" coverageLevel="1000" ganNom="" dayName="Saturday" nameEstadio="Not confirmed" nbr="357" agendaOrder="206" type="">
+			<state id="0"/>
+			<timestate/>
+			<local id="" nc="To define" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Celtic</local>
+			<localGoals>2</localGoals>
+			<localScorers/>
+			<localPenaltyDefinitionGoals/>
+			<visitor id="" nc="To define" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Aberdeen</visitor>
+			<visitorGoals>0</visitorGoals>
+			<visitorScorers/>
+			<visitorPenaltyDefinitionGoals/>
+			<medias/>
+		</match>
+		<freeTeams>
+			<freeTeam id="103">Rangers</freeTeam>
+			<freeTeam id="3685">Kilmarnock</freeTeam>
+		</freeTeams>
+	</date>
+	<date state="" date="20161210" dateSince="20161210" dateUntil="20161216" fn="" id="358743" level="6" name="Final" dayName="Saturday" levelName="Final" order="1">
+		<match stadiumClub="Not confirmed" stadiumGMT="" date="20161210" time="" id="262556" stadiumId="571" ganId="" timezoneId="" cityNeighbourhood="" nd="" chargeLevel="1" coverageLevel="1000" ganNom="" dayName="Saturday" nameEstadio="Not confirmed" nbr="358" agendaOrder="207" type="">
+			<state id="0"/>
+			<timestate/>
+			<local id="" nc="To define" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Dundee</local>
+			<localGoals>2</localGoals>
+			<localScorers/>
+			<localPenaltyDefinitionGoals/>
+			<visitor id="" nc="To define" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Motherwell</visitor>
+			<visitorGoals>0</visitorGoals>
+			<visitorScorers/>
+			<visitorPenaltyDefinitionGoals/>
+			<medias/>
+		</match>
+		<match stadiumClub="Not confirmed" stadiumGMT="" date="20161216" time="" id="262557" stadiumId="571" ganId="" timezoneId="" cityNeighbourhood="" nd="" chargeLevel="1" coverageLevel="1000" ganNom="" dayName="Friday" nameEstadio="Not confirmed" nbr="359" agendaOrder="208" type="">
+			<state id="0"/>
+			<timestate/>
+			<local id="" nc="To define" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Celtic</local>
+			<localGoals>1</localGoals>
+			<localScorers/>
+			<localPenaltyDefinitionGoals/>
+			<visitor id="" nc="To define" shortName="" asociationName="" country="" countryId="" countrySymbol="" symbol="">Aberdeen</visitor>
+			<visitorGoals>0</visitorGoals>
+			<visitorScorers/>
+			<visitorPenaltyDefinitionGoals/>
+			<medias/>
+		</match>
+		<freeTeams>
+			<freeTeam id="103">Rangers</freeTeam>
+			<freeTeam id="3685">Kilmarnock</freeTeam>
+		</freeTeams>
+	</date>
+</fixture>
