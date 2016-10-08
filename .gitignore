@@ -70,6 +70,4 @@ node_modules/
 # User-uploaded media
 api/media/
 
-
-
-
+.idea/
