@@ -1,3 +1,24 @@
+Quick Start
+===========
+
+Install Docker, docker-compose for Linux
+----------------------------------------
+
+* wget -qO- https://get.docker.com/ | sh
+* sudo usermod -aG docker $(whoami)
+* sudo pip install docker-compose
+
+Get Up and Run Locally With Docker
+----------------------------------
+
+* docker-compose -f dev.yml build
+* docker-compose -f dev.yml up
+* docker-compose -f dev.yml run django python manage.py migrate
+* docker-compose -f dev.yml run django python manage.py createsuperuser
+* visit **localhost:8001**
+* visit **localhost:8001/admin** for admin panel
+
+
 Filtering Football Matchs
 =========================
 
@@ -353,4 +374,3 @@ To restore the production database to a local PostgreSQL database::
 
     createdb NAME_OF_DATABASE
     psql NAME_OF_DATABASE < NAME_OF_BACKUP_FILE
-
