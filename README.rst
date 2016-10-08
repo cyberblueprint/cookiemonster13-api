@@ -313,7 +313,7 @@ To get the status, run::
 
     supervisorctl status
 
-============================
+
 Database Backups with Docker
 ============================
 
