@@ -313,6 +313,7 @@ To get the status, run::
 
     supervisorctl status
 
+
 ============================
 Database Backups with Docker
 ============================
@@ -353,3 +354,4 @@ To restore the production database to a local PostgreSQL database::
 
     createdb NAME_OF_DATABASE
     psql NAME_OF_DATABASE < NAME_OF_BACKUP_FILE
+
